@@ -35,7 +35,7 @@ Specify the name of the output file to save the links.
 
 Enter a YouTube channel name:
 
-TechWithTim
+name
 
 The script will fetch videos from:
 
